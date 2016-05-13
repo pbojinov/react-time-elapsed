@@ -1,0 +1,22 @@
+{
+  "name": "react-time-elapsed",
+  "version": "1.0.0",
+  "description": "A simple react timer component that starts counting up as soon as you render it",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/pbojinov/react-time-elapsed.GIT"
+ },
+  "keywords": [
+    "react",
+    "timer",
+    "counter",
+    "elapsed",
+    "time"
+  ],
+  "author": "Petar Bojinov <petarbojinov@gmail.com> (https://github.com/pbojinov)",
+  "license": "MIT"
+}
