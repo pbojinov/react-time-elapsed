@@ -21,10 +21,10 @@
   "author": "Petar Bojinov <petarbojinov@gmail.com> (https://github.com/pbojinov)",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^15.0.2"
+    "react": "0.14.7"
   },
   "dependencies": {
-    "react": "^15.0.2"
+    "react": "0.14.7"
   },
   "devDependencies": {
     "babel": "^6.5.2",
